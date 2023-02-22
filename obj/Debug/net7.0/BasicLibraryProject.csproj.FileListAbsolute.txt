@@ -1,0 +1,15 @@
+/Users/burak/Projects/BasicLibraryProject/bin/Debug/net7.0/BasicLibraryProject
+/Users/burak/Projects/BasicLibraryProject/bin/Debug/net7.0/BasicLibraryProject.deps.json
+/Users/burak/Projects/BasicLibraryProject/bin/Debug/net7.0/BasicLibraryProject.runtimeconfig.json
+/Users/burak/Projects/BasicLibraryProject/bin/Debug/net7.0/BasicLibraryProject.dll
+/Users/burak/Projects/BasicLibraryProject/bin/Debug/net7.0/BasicLibraryProject.pdb
+/Users/burak/Projects/BasicLibraryProject/obj/Debug/net7.0/BasicLibraryProject.csproj.AssemblyReference.cache
+/Users/burak/Projects/BasicLibraryProject/obj/Debug/net7.0/BasicLibraryProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burak/Projects/BasicLibraryProject/obj/Debug/net7.0/BasicLibraryProject.AssemblyInfoInputs.cache
+/Users/burak/Projects/BasicLibraryProject/obj/Debug/net7.0/BasicLibraryProject.AssemblyInfo.cs
+/Users/burak/Projects/BasicLibraryProject/obj/Debug/net7.0/BasicLibraryProject.csproj.CoreCompileInputs.cache
+/Users/burak/Projects/BasicLibraryProject/obj/Debug/net7.0/BasicLibraryProject.dll
+/Users/burak/Projects/BasicLibraryProject/obj/Debug/net7.0/refint/BasicLibraryProject.dll
+/Users/burak/Projects/BasicLibraryProject/obj/Debug/net7.0/BasicLibraryProject.pdb
+/Users/burak/Projects/BasicLibraryProject/obj/Debug/net7.0/BasicLibraryProject.genruntimeconfig.cache
+/Users/burak/Projects/BasicLibraryProject/obj/Debug/net7.0/ref/BasicLibraryProject.dll
